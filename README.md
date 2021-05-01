@@ -2,6 +2,7 @@
 Monitoring buku kas , pemograman mobile
 
 built with
+- tanpa folder lib
 - vs code
 - hp
 - android studio (untuk package)
