@@ -1,4 +1,5 @@
 # Monikas
+TANPA FOLSER BUILD
 
 A new Flutter project.
 
