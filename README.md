@@ -1,5 +1,5 @@
 # Monikas
-TANPA FOLSER BUILD
+TANPA FOLDER BUILD
 
 A new Flutter project.
 
